@@ -1,4 +1,5 @@
 {
+    "root": "app/",
     "headers": {
         "/apple-app-site-association": {
             "Content-Type": "application/json"
