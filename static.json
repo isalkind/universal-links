@@ -1,0 +1,7 @@
+{
+    "headers": {
+        "/apple-app-site-association": {
+            "content-type": "application/json"
+        }
+    }
+}
