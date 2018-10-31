@@ -1,11 +1,9 @@
 # Universal Links
 
-This repo contains the **Single Board Computer** website app developed for the **iOS 9 Universal Links** tutorial.
+This repo contains a simple demonstration of a web site that is enabled for universal links.
 
-## Deployment
-
-You can easily deploy your own version of the web app for free to Heroku by clicking  the following button:
-
-| Master |
-|---------|
-| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isalkind/universal-links/tree/master) |
+Important:
+* This site **MUST** be hosted in its own domain/subdomain for universal links to work properly
+* The apple-app-site-association **MUST** be included and set properly for the app. Currently set for a POC app. The app requires additional code so you can't just add any old app and expect it to work.
+* ra.html - **MUST** include the proper app store links
+* ra.html - to force an immediate redirect to the app store, uncomment the <script>...</script> contained in <head>
