@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mhe.ulinks",
+    "sha256_cert_fingerprints":
+    ["F8:2B:4A:A4:F4:AF:AC:17:B1:C1:AD:CA:5C:63:59:85:BE:CF:6F:8A:6F:FE:C1:DE:91:B8:7B:C1:53:CF:B5:01"]
+  }
+}]
