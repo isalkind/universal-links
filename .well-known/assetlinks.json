@@ -2,15 +2,6 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.mhe.ulinks",
-    "sha256_cert_fingerprints":
-    ["F8:2B:4A:A4:F4:AF:AC:17:B1:C1:AD:CA:5C:63:59:85:BE:CF:6F:8A:6F:FE:C1:DE:91:B8:7B:C1:53:CF:B5:01"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
     "package_name": "com.mheducation.readerShellApp",
     "sha256_cert_fingerprints":
     ["9F:11:D7:7C:53:FA:EA:AB:C5:85:18:CC:00:3B:CE:B0:7C:4F:30:ED:76:A0:B3:BD:06:C7:9D:1E:1F:C6:89:DF"]
